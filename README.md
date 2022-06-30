@@ -4,6 +4,10 @@
 I am **lmmarisej**.
 
 ---
+
+I'm interested in crackig and games and Automation.
+
+
 ---
 
 <p align="center">
