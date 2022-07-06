@@ -5,3 +5,5 @@ I am **lmmarisej**. <img style="max-width: 450px" align="right" src="https://git
 
 - I'm interested in cracking and game auxiliary.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmmarisej)
+
